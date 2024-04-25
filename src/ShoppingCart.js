@@ -1,7 +1,6 @@
 import React, { useContext } from 'react'
 
 export default function ShoppingCart() {
-  const handleAddItem = (id, name) => {}
 
   const handleRemoveItem = (id) => {}
 
